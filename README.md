@@ -257,6 +257,8 @@ Table 1. Average results on 11 datasets. (Only works with open-source code will 
 [[Paper](https://arxiv.org/abs/2603.02557)] [[Code](https://github.com/greatest-gourmet/CAPT)]
 - `DeAR` **DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles.** CVPR 2026.   
 [[Paper](https://arxiv.org/abs/2603.01111)] [[Code](https://github.com/wellsssssss/DeAR)] ![](https://img.shields.io/badge/Image--Text-blue)   
+- `CAKI` **Plug-and-play Class-aware Knowledge Injection for Prompt Learning with Visual-Language Model.** IJCV 2026.   
+[[Paper](https://arxiv.org/abs/2605.05910)] [[Code](https://github.com/yjh576/CAKI)(Empty)] ![](https://img.shields.io/badge/Text-green)  
 
 ## Another form of Prompt
 
