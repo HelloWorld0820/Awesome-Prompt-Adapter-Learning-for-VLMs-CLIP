@@ -426,7 +426,7 @@ Table 2. Test-time prompt tuning methods on OOD data.
 [[Paper](https://arxiv.org/abs/2406.00345)] [[Code](https://github.com/WNJXYK/DeCoOp)]   
 
 ### Point Cloud
-- `IDPT` **Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models.** ICCV 2023.
+- `IDPT` **Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models.** ICCV 2023.   
 [[Paper](https://arxiv.org/abs/2304.07221)] [[Code](https://github.com/zyh16143998882/ICCV23-IDPT)]   
 - `PPT` **Parameter-efficient Prompt Learning for 3D Point Cloud Understanding.** ICRA 2024.    
 [[Paper](https://arxiv.org/abs/2402.15823)] [[Code](https://github.com/auniquesun/PPT)]
@@ -443,7 +443,7 @@ Table 2. Test-time prompt tuning methods on OOD data.
 - `PPL` **Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation.** CVPR 2025.   
 [[Paper](https://www.arxiv.org/abs/2504.00420)]
 
-### Retrival
+### Retrieval
 - `CLIP4clip` **Clip4clip: An empirical study of clip for end to end video clip retrieval and captioning.** Neurocomputing 2022.   
 [[Paper](https://arxiv.org/abs/2104.08860)] [[Code](https://github.com/ArrowLuo/CLIP4Clip)]   
 - `VoP` **VoP: Text-Video Co-Operative Prompt Tuning for Cross-Modal Retrieval.** CVPR 2023.   
@@ -454,6 +454,14 @@ Table 2. Test-time prompt tuning methods on OOD data.
 ### Action
 - `SCoPLe` **Semantic-guided Cross-Modal Prompt Learning for Skeleton-based Zero-shot Action Recognition.** CVPR 2025.   
 [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhu_Semantic-guided_Cross-Modal_Prompt_Learning_for_Skeleton-based_Zero-shot_Action_Recognition_CVPR_2025_paper.pdf)] [Code Not Found]
+
+### Federal Learning 
+- `FedTPG` **Federated Text-driven Prompt Generation for Vision-Language Models.** ICLR 2024.   
+[[Paper](https://openreview.net/forum?id=NW31gAylIm)] [[Code Not Found]]   
+- `FedMVP` **FedMVP: Federated Multimodal Visual Prompt Tuning for Vision-Language Models.** ICCV 2025.     
+[[Paper](https://arxiv.org/abs/2504.20860)] [[Code](https://github.com/mainaksingha01/FedMVP)]    
+- `FedMPT` **FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models.** CVPR 2026.   
+[[Paper](https://arxiv.org/abs/2605.28347)] [[Web Page](https://xuc865.github.io/fedmpt/index.html)]   
 
 ### Anomaly Detection
 - `PromptAD` **PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection.** CVPR 2024.    
