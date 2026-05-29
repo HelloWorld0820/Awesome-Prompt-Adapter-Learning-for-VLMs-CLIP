@@ -40,23 +40,25 @@ A curated list of prompt/adapter learning methods for vision-language models (e.
 ## Foundation Models
 
 - `CLIP` **Learning Transferable Visual Models From Natural Language Supervision.** ICML 2021.  
-  [[Paper](https://arxiv.org/abs/2103.00020)] [[Code](https://github.com/OpenAI/CLIP)]  
+[[Paper](https://arxiv.org/abs/2103.00020)] [[Code](https://github.com/OpenAI/CLIP)]  
 - `ALIGN` **Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision.** ICML 2021.  
-  [[Paper](https://arxiv.org/abs/2102.05918)]
+[[Paper](https://arxiv.org/abs/2102.05918)]
 - `LiT` **LiT: Zero-Shot Transfer with Locked-image text Tuning.** CVPR 2022.   
-  [[Paper](https://arxiv.org/abs/2111.07991)] [[Code](https://github.com/google-research/vision_transformer#lit-models)]
+[[Paper](https://arxiv.org/abs/2111.07991)] [[Code](https://github.com/google-research/vision_transformer#lit-models)]
 - `EVA-CLIP` **EVA-CLIP: Improved Training Techniques for CLIP at Scale.** 2023.   
-  [[Paper](https://arxiv.org/abs/2303.15389)] [[Code](https://github.com/baaivision/EVA)]   
+[[Paper](https://arxiv.org/abs/2303.15389)] [[Code](https://github.com/baaivision/EVA)]   
 - `SigLIP` **Sigmoid Loss for Language Image Pre-Training.** ICCV 2023.  
-  [[Paper](https://arxiv.org/abs/2303.15343)] [[Code](https://github.com/google-research/big_vision)]  
+[[Paper](https://arxiv.org/abs/2303.15343)] [[Code](https://github.com/google-research/big_vision)]  
 - `AlphaCLIP` **Alpha-CLIP: A CLIP Model Focusing on Wherever You Want.** CVPR 2024.  
-  [[Paper](https://arxiv.org/abs/2312.03818)] [[Code](https://github.com/SunzeY/AlphaCLIP)]
+[[Paper](https://arxiv.org/abs/2312.03818)] [[Code](https://github.com/SunzeY/AlphaCLIP)]
 - `CLIP-KD` **CLIP-KD: An Empirical Study of CLIP Model Distillation.** CVPR 2024.   
-  [[Paper](https://arxiv.org/abs/2307.12732)] [[Code](https://github.com/winycg/CLIP-KD)] [[论文解读](https://www.zhihu.com/question/646919153/answer/3553439426)]  
+[[Paper](https://arxiv.org/abs/2307.12732)] [[Code](https://github.com/winycg/CLIP-KD)] [[论文解读](https://www.zhihu.com/question/646919153/answer/3553439426)]  
 - `LongCLIP` **Long-CLIP: Unlocking the Long-Text Capability of CLIP.** ECCV 2024.  
-  [[Paper](https://arxiv.org/abs/2403.15378)] [[Code](https://github.com/beichenzbc/Long-CLIP)]   
+[[Paper](https://arxiv.org/abs/2403.15378)] [[Code](https://github.com/beichenzbc/Long-CLIP)]   
 - `CLIP-Refine` **Post-pre-training for Modality Alignment in Vision-Language Foundation Models.** CVPR 2025.   
-  [[Paper](https://arxiv.org/abs/2504.12717)] [[Code](https://github.com/yshinya6/clip-refine)]
+[[Paper](https://arxiv.org/abs/2504.12717)] [[Code](https://github.com/yshinya6/clip-refine)]   
+- `KUEA` **Kernel-based Unsupervised Embedding Alignment for Enhanced Visual Representation in Vision-language Models.** ICML 2025.    
+[[Paper](https://arxiv.org/abs/2506.02557)] [[Code](https://github.com/peterant330/KUEA)]   
 
 ## Datasets
 
