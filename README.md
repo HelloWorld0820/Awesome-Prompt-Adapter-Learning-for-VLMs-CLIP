@@ -262,7 +262,16 @@ Table 1. Average results on 11 datasets. (Only works with open-source code will 
 - `DeAR` **DeAR: Fine-Grained VLM Adaptation by Decomposing Attention Head Roles.** CVPR 2026.   
 [[Paper](https://arxiv.org/abs/2603.01111)] [[Code](https://github.com/wellsssssss/DeAR)] ![](https://img.shields.io/badge/Image--Text-blue)   
 - `CAKI` **Plug-and-play Class-aware Knowledge Injection for Prompt Learning with Visual-Language Model.** IJCV 2026.   
-[[Paper](https://arxiv.org/abs/2605.05910)] [[Code](https://github.com/yjh576/CAKI)(Empty)] ![](https://img.shields.io/badge/Text-green)  
+[[Paper](https://arxiv.org/abs/2605.05910)] [[Code](https://github.com/yjh576/CAKI)(Empty)] ![](https://img.shields.io/badge/Text-green)
+- `NeRP` **Neutral-Reference Prompting for Vision–Language Models.** ICML 2026.   
+[[Paper](https://arxiv.org/abs/2605.15615)] [[Code](https://github.com/Sheldon04/NeRP)]
+- `SDPT` **SDPT: Synchronous Dual Prompt Tuning for Visual-Language Pre-trained Models.** TPAMI 2026.   
+[[Paper](https://ieeexplore.ieee.org/abstract/document/11516328)] [[Code](https://github.com/wuyongjianCODE/SDPT)]   
+- `MMA++` **MMA++: Effective Multi-Modal Adaptation for Vision-Language Models.** TPAMI 2026.   
+[[Paper](https://ieeexplore.ieee.org/abstract/document/11534926)] [[Code(Empty)](https://github.com/ZjjConan/VLM-MultiModalAdapterPP)]
+- `CASPA-G` **CASPA: Graph-Structured Concept Anchors for Modality-Agnostic Adaptation in Vision-Language Models.** CVPR 2026.   
+[[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Chatterjee_CASPA_Graph-Structured_Concept_Anchors_for_Modality-Agnostic_Adaptation_in_Vision-Language_Models_CVPR_2026_paper.pdf)] [Code Not Found]
+
 
 ## Another form of Prompt
 
@@ -470,4 +479,8 @@ Table 2. Test-time prompt tuning methods on OOD data.
 ### Anomaly Detection
 - `PromptAD` **PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection.** CVPR 2024.    
 [[Paper](https://arxiv.org/abs/2404.05231)] [[Code](https://github.com/FuNz-0/PromptAD)]   
+
+### Low Resolution
+- `LOREAL` **LOREAL: Mitigating Low-Resolution Challenges in Vision-Language Models with Attribute-driven Prompt Self-Distillation.** CVPR 2026.   
+[[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_LOREAL_Mitigating_Low-Resolution_Challenges_in_Vision-Language_Models_with_Attribute-driven_Prompt_CVPR_2026_paper.pdf)] [[Web Page](https://xuc865.github.io/loreal/index.html)]
 
