@@ -271,6 +271,8 @@ Table 1. Average results on 11 datasets. (Only works with open-source code will 
 [[Paper](https://ieeexplore.ieee.org/abstract/document/11534926)] [[Code(Empty)](https://github.com/ZjjConan/VLM-MultiModalAdapterPP)]
 - `CASPA-G` **CASPA: Graph-Structured Concept Anchors for Modality-Agnostic Adaptation in Vision-Language Models.** CVPR 2026.   
 [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Chatterjee_CASPA_Graph-Structured_Concept_Anchors_for_Modality-Agnostic_Adaptation_in_Vision-Language_Models_CVPR_2026_paper.pdf)] [Code Not Found]
+- `AlignedNorm` **AlignedNorm: Prompting Vision–Language Models via Coupled Prompt Field.** ICML 2026.   
+[[Paper](https://openreview.net/forum?id=aQAWAtrxxe)] [[Code](https://github.com/QByteM/AlignedNorm)]   
 
 
 ## Another form of Prompt
